@@ -2,7 +2,7 @@
 markdown: kramdown
 highlighter: rouge
 paginate: 100 # it will paginate after this number
-language: 'en-uk'
+language: 'en-US'
 words_per_minute: 200
 
 remote_theme: jekyllt/jasper2
@@ -12,13 +12,13 @@ url: "https://eslizchoi.github.io" # the base hostname & protocol for your site 
 baseurl: "" # the subpath of your site, e.g. "/blog"
 
 # Website info
-title: ESCHOI
-description: The professional publishing platform
+title: Eunsung Choi
+description: Eunsung Choi
 cover: assets/images/blog-cover.jpg
 logo: assets/images/blog-icon.png
 logo_dark: assets/images/favicon.png
 favicon: assets/images/favicon.png
-CNAME: #add cname for website to be created
+CNAME: ESC #add cname for website to be created
 
 # Social info
 navigation: True # show the navbar links
@@ -33,7 +33,7 @@ disqus: False
 disqus_shortname: jekyllt # replace with your disqus username
 
 # Google Analytics
-google_analytics: UA-69281367-1 # replace with your GA tracking identifier
+#google_analytics: UA-69281367-1 # replace with your GA tracking identifier
 
 # Permalinks
 permalink: /:title
