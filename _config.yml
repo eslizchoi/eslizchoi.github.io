@@ -24,7 +24,8 @@ CNAME: ESC #add cname for website to be created
 navigation: True # show the navbar links
 subscribers: True # you need to connect an external service for this to work,
 # if 'True' the submit button is disabled for now, but you can change that
-# by editing `_includes/subscribe-form.html`
+# by editing `_includes/subscribe-form.html
+linkedin: https://www.linkedin.com/in/eslizchoi
 twitter: tryghost # replace by your username
 facebook: ghost # replace by your username
 
