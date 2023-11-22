@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Resume
-subtitle: What's been eating away my free time
 ---
 
 My name is Inigo Montoya. I have the following qualities:
