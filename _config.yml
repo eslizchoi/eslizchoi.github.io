@@ -26,6 +26,10 @@ baseurl: "" # the subpath of your site, e.g. "/blog"
 navbar-links:
   About Me: "aboutme"
   Projects: "projects"
+     - Python: 
+     - SQL:
+     - Tableau:
+     - Power BI:
   #Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
   #  - Learn markdown: "https://www.markdowntutorial.com/"
