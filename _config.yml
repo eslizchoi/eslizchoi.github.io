@@ -33,7 +33,7 @@ navbar-links:
   #Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
   #  - Learn markdown: "https://www.markdowntutorial.com/"
-  #Certification: "certification"
+  Certification: "certification"
   Resume: "resume"
   Contact: "contact"
 
