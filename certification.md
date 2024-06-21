@@ -51,15 +51,15 @@ permalink: /certification/
 | **Intermediate SQL Server**                 | DataCamp                        | -              | Data Analytics   | [Link](https://example.com) |
 | **Intermediate SQL**                        | DataCamp                        | -              | Data Analytics   | [Link](https://example.com) |
 | **Intermediate R**                          | DataCamp                        | -              | Data Analytics   | [Link](https://example.com) |
-| Introduction to Data Science in Python      | DataCamp                        | -              | Data Analytics   | [Link](https://example.com) |
+| Case Study: Analyzing Customer Churn in Power BI     | DataCamp               | -              | Data Analytics   | [Link](https://www.datacamp.com/statement-of-accomplishment/course/1979c8bc770e20bc0c2a9d4abd1e9193a23a7b80?raw=1) |
 
 # 📜 Tableau
 
 | **Title**                                   | **Institution**                 | **Expiration** | **Field**        | **Link** |
 |---------------------------------------------|---------------------------------|----------------|------------------|----------|
-| **Google Analytics 4**                      | Google / Skillshop              | -              | Data Analytics   | [Link](https://example.com) |
-| **Alteryx Foundational Micro-Credential**   | Alteryx                         | -              | Data Analytics   | [Link](https://example.com) |
-| **Google Data Analytics**                   | Google / Coursera               | -              | Data Analytics   | [Link](https://example.com) |
+| Analyzing Data in Tableau                   | DataCamp                        | -              | Data Analytics   | [Link](https://www.datacamp.com/statement-of-accomplishment/course/57e82a3c68de3d7ecbc71f9df21ded216c022d84?raw=1) |
+| Calculations in Tableau                     | DataCamp                        | -              | Data Analytics   | [Link](https://www.datacamp.com/statement-of-accomplishment/course/68663e256c9ececf249411f964ff331c577d1360?raw=1) |
+| Connecting Data in Tableau                  | DataCamp                        | -              | Data Analytics   | [Link](https://www.datacamp.com/statement-of-accomplishment/course/e157054ccea700309aa4cfc8936fe1409b9b4c65?raw=1) |
 | **Architecting with Google Compute Engine** | Google / Coursera               | -              | Google Cloud     | [Link](https://example.com) |
 | **Administering Imperva Security Infrastructure** | Imperva Inc.               | August 2024     | Data Security    | [Link](https://example.com) |
 | Data Privacy Course                         | Imperva Inc.                    | August 2024    | Data Security    | [Link](https://example.com) |
