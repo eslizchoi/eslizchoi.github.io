@@ -3,7 +3,7 @@ layout: page
 title: About me
 subtitle: 
 ---
-#Why you'd want to go on a date with me
+
 - Currently a **MS in Business Analytics student** at UT Dallas. Previously worked as a **consultant** (**Deloitte**) for 5 years and did internship in investment banks (JP Morgan, Nomura, Woori Investment & Securities).
 
 - Earned my MA in **Applied Statistics** from Yonsei University (supervised by the amazing Sangun Park) and my Bachelor of Economics from Cornell University. 
