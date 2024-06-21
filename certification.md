@@ -6,6 +6,21 @@ permalink: /certification/
 
 # 📜 Certifications
 
+<style>
+  table {
+    width: 100%; /* Make the table take up the full width of the page */
+    border-collapse: collapse; /* Optional: Makes borders look cleaner */
+  }
+  th, td {
+    padding: 10px; /* Add padding to table cells */
+    border: 1px solid #ddd; /* Add border to table cells */
+    text-align: left; /* Align text to the left */
+  }
+  th {
+    background-color: #f4f4f4; /* Optional: Add background color to header cells */
+  }
+</style>
+
 | **Title**                                   | **Institution**                 | **Expiration** | **Field**        | **Link** |
 |---------------------------------------------|---------------------------------|----------------|------------------|----------|
 | **Google Analytics 4**                      | Google / Skillshop              | -              | Data Analytics   | [Link](https://example.com) |
