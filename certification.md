@@ -41,10 +41,10 @@ permalink: /certification/
 
 | **Title**                                   | **Institution**                 | **Expiration** | **Field**        | **Link** |
 |---------------------------------------------|---------------------------------|----------------|------------------|----------|
-| **Google Analytics 4**                      | Google / Skillshop              | -              | Data Analytics   | [Link](https://example.com) |
-| **Alteryx Foundational Micro-Credential**   | Alteryx                         | -              | Data Analytics   | [Link](https://example.com) |
-| **Google Data Analytics**                   | Google / Coursera               | -              | Data Analytics   | [Link](https://example.com) |
-| **Architecting with Google Compute Engine** | Google / Coursera               | -              | Google Cloud     | [Link](https://example.com) |
+| Data Modeling in Power BI                   | DataCamp                        | -              | Data Analytics   | [Link](https://www.datacamp.com/statement-of-accomplishment/course/d14bd2f2d4910ea18494d709b5f64087d721f65d?raw=1) |
+| Data Preparation in Power BI                | DataCamp                        | -              | Data Analytics   | [Link](https://www.datacamp.com/statement-of-accomplishment/course/41191b139f8b7c1393932db5b69a8cf952496cfc?raw=1) |
+| Data Transformation in Power BI             | DataCamp                        | -              | Data Analytics   | [Link](https://www.datacamp.com/statement-of-accomplishment/course/8da9916a94b708f0e40f770ec3046c07626a0826?raw=1) |
+| Data Visualization in Power BI              | DataCamp                        | -              | Data Analytics   | [Link]([https://example.com](https://www.datacamp.com/statement-of-accomplishment/course/f37444d2aa4598c9f1fcc56055e7a11bc02e21b5?raw=1)) |
 | **Administering Imperva Security Infrastructure** | Imperva Inc.               | August 2024     | Data Security    | [Link](https://example.com) |
 | Data Privacy Course                         | Imperva Inc.                    | August 2024    | Data Security    | [Link](https://example.com) |
 | Sonar Foundation - Hybrid                   | Imperva Inc.                    | August 2023    | Data Security    | [Link](https://example.com) |
@@ -62,7 +62,7 @@ permalink: /certification/
 | Calculations in Tableau                     | DataCamp                        | -              | Data Analytics   | [Link](https://www.datacamp.com/statement-of-accomplishment/course/68663e256c9ececf249411f964ff331c577d1360?raw=1) |
 | Connecting Data in Tableau                  | DataCamp                        | -              | Data Analytics   | [Link](https://www.datacamp.com/statement-of-accomplishment/course/e157054ccea700309aa4cfc8936fe1409b9b4c65?raw=1) |
 | Creating Dashboards in Tableau              | DataCamp                        | -              | Data Analytics   | [Link](https://www.datacamp.com/statement-of-accomplishment/course/a2fd91d574588e69207ad14f5812afff9856fc27?raw=1) |
-| **Administering Imperva Security Infrastructure** | Imperva Inc.               | August 2024     | Data Security    | [Link](https://example.com) |
+| Data Visualization in Tableau               || DataCamp                       | -              | Data Analytics   | [Link]([https://example.com](https://www.datacamp.com/statement-of-accomplishment/course/d376c8471872a7291eb295ae90b402b3d18818f3?raw=1)) |
 | Data Privacy Course                         | Imperva Inc.                    | August 2024    | Data Security    | [Link](https://example.com) |
 | Sonar Foundation - Hybrid                   | Imperva Inc.                    | August 2023    | Data Security    | [Link](https://example.com) |
 | jSonar 101 (SLE)                            | Imperva Inc.                    | -              | Data Security    | [Link](https://example.com) |
@@ -75,7 +75,7 @@ permalink: /certification/
 
 | **Title**                                   | **Institution**                 | **Expiration** | **Field**        | **Link** |
 |---------------------------------------------|---------------------------------|----------------|------------------|----------|
-| **Google Analytics 4**                      | Google / Skillshop              | -              | Data Analytics   | [Link](https://example.com) |
+| Data Manipulation with pandas               | DataCamp                        | -              | Data Analytics   | [Link](https://www.datacamp.com/statement-of-accomplishment/course/062b06752024f421295f3c3540e6534ca22ce79b?raw=1) |
 | **Alteryx Foundational Micro-Credential**   | Alteryx                         | -              | Data Analytics   | [Link](https://example.com) |
 | **Google Data Analytics**                   | Google / Coursera               | -              | Data Analytics   | [Link](https://example.com) |
 | **Architecting with Google Compute Engine** | Google / Coursera               | -              | Google Cloud     | [Link](https://example.com) |
