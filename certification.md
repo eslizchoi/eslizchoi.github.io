@@ -33,8 +33,8 @@ permalink: /certification/
 | Exploratory Data Analysis in SQL            | DataCamp                        | -              | Data Analytics   | [Link](https://www.datacamp.com/statement-of-accomplishment/course/41447012a8a4eebad228be565116189f089b0653?raw=1) |
 | Functions for Manipulating Data in PostgreSQL | DataCamp                      | -              | Data Analytics   | [Link](https://www.datacamp.com/statement-of-accomplishment/course/1885f83c0992e1cf43be80bc8b57002cae514bee?raw=1) |
 | Functions for Manipulating Data in SQL Server | DataCamp                      | -              | Data Analytics   | [Link](https://www.datacamp.com/statement-of-accomplishment/course/32fc37e5ed9cd9aa0654836fe4211862625db788?raw=1) |
-| Introduction to Data Science in Python      | DataCamp                        | -              | Data Analytics   | [Link](https://example.com) |
-| Introduction to Python                      | DataCamp                        | -              | Data Analytics   | [Link](https://example.com) |
+| **Intermediate SQL**                        | DataCamp                        | -              | Data Analytics   | [Link](https://www.datacamp.com/statement-of-accomplishment/course/011bbe52163d4717a2db6f32f64cf73754ffced4?raw=1) |
+| **Intermediate SQL Server**                 | DataCamp                        | -              | Data Analytics   | [Link](https://www.datacamp.com/statement-of-accomplishment/course/229c734defe5fbf94e299f0768e3158332642cdf?raw=1) |
 | Introduction of R                           | DataCamp                        | -              | Data Analytics   | [Link](https://example.com) |
 
 # 📜 Power BI
@@ -44,11 +44,10 @@ permalink: /certification/
 | Data Modeling in Power BI                   | DataCamp                        | -              | Data Analytics   | [Link](https://www.datacamp.com/statement-of-accomplishment/course/d14bd2f2d4910ea18494d709b5f64087d721f65d?raw=1) |
 | Data Preparation in Power BI                | DataCamp                        | -              | Data Analytics   | [Link](https://www.datacamp.com/statement-of-accomplishment/course/41191b139f8b7c1393932db5b69a8cf952496cfc?raw=1) |
 | Data Transformation in Power BI             | DataCamp                        | -              | Data Analytics   | [Link](https://www.datacamp.com/statement-of-accomplishment/course/8da9916a94b708f0e40f770ec3046c07626a0826?raw=1) |
-| Data Visualization in Power BI              | DataCamp                        | -              | Data Analytics   | [Link]([https://example.com](https://www.datacamp.com/statement-of-accomplishment/course/f37444d2aa4598c9f1fcc56055e7a11bc02e21b5?raw=1)) |
-| **Administering Imperva Security Infrastructure** | Imperva Inc.               | August 2024     | Data Security    | [Link](https://example.com) |
-| Data Privacy Course                         | Imperva Inc.                    | August 2024    | Data Security    | [Link](https://example.com) |
-| Sonar Foundation - Hybrid                   | Imperva Inc.                    | August 2023    | Data Security    | [Link](https://example.com) |
-| jSonar 101 (SLE)                            | Imperva Inc.                    | -              | Data Security    | [Link](https://example.com) |
+| Data Visualization in Power BI              | DataCamp                        | -              | Data Analytics   | [Link](https://www.datacamp.com/statement-of-accomplishment/course/f37444d2aa4598c9f1fcc56055e7a11bc02e21b5?raw=1) |
+| Introduction to DAX in Power BI             | DataCamp                        | -              | Data Analytics   | [Link](https://www.datacamp.com/statement-of-accomplishment/course/c060d16e69ddad8f31f38a706bdb0fb0c6de6e41?raw=1) |
+| Sonar Foundation - Hybrid                   | Imperva Inc.                    | August 2023    | Data Analytics   | [Link](https://example.com) |
+| jSonar 101 (SLE)                            | Imperva Inc.                    | -              | Data Analytics   | [Link](https://example.com) |
 | **Intermediate SQL Server**                 | DataCamp                        | -              | Data Analytics   | [Link](https://example.com) |
 | **Intermediate SQL**                        | DataCamp                        | -              | Data Analytics   | [Link](https://example.com) |
 | **Intermediate R**                          | DataCamp                        | -              | Data Analytics   | [Link](https://example.com) |
@@ -77,9 +76,9 @@ permalink: /certification/
 |---------------------------------------------|---------------------------------|----------------|------------------|----------|
 | Data Manipulation with pandas               | DataCamp                        | -              | Data Analytics   | [Link](https://www.datacamp.com/statement-of-accomplishment/course/062b06752024f421295f3c3540e6534ca22ce79b?raw=1) |
 | Exploratory Data Analysis in Python         |  DataCamp                       | -              | Data Analytics   | [Link](https://www.datacamp.com/statement-of-accomplishment/course/4d6b9ce373ded25094e40c438ec93d108aa56f6f?raw=1) |
-| **Google Data Analytics**                   | Google / Coursera               | -              | Data Analytics   | [Link](https://example.com) |
-| **Architecting with Google Compute Engine** | Google / Coursera               | -              | Google Cloud     | [Link](https://example.com) |
-| **Administering Imperva Security Infrastructure** | Imperva Inc.               | August 2024     | Data Security    | [Link](https://example.com) |
+| Hypothesis Testing in Python                |  DataCamp                       | -              | Data Analytics   | [Link](https://www.datacamp.com/statement-of-accomplishment/course/fc4c4a394f4abcb6161cb879dc6cd357aada064c?raw=1) |
+| **Intermediate Python**                     |  DataCamp                       | -              | Data Analytics   | [Link](https://www.datacamp.com/statement-of-accomplishment/course/9c5fde5a392dc39e32f06b525810029094711210?raw=1) |
+| Introduction to Data Visualization with Seaborn |  DataCamp                   | -              | Data Analytics   | [Link](https://www.datacamp.com/statement-of-accomplishment/course/920a851bb7ad9aedb0672c6a2e7fc410cc526dcc?raw=1) |
 | Data Privacy Course                         | Imperva Inc.                    | August 2024    | Data Security    | [Link](https://example.com) |
 | Sonar Foundation - Hybrid                   | Imperva Inc.                    | August 2023    | Data Security    | [Link](https://example.com) |
 | jSonar 101 (SLE)                            | Imperva Inc.                    | -              | Data Security    | [Link](https://example.com) |
