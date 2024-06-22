@@ -28,11 +28,11 @@ permalink: /certification/
 | Associate Data Analyst in SQL               | DataCamp                        | -              | Data Analytics   | [Link](https://www.datacamp.com/statement-of-accomplishment/track/fe7a4a461d7aef56161230d9d275df356c985b45?raw=1) |
 | Creating PostgreSQL Databases               | DataCamp                        | -              | Data Analytics   | [Link](https://www.datacamp.com/statement-of-accomplishment/course/94aa58ffbb0f41225503e5e6f330f651a8fbf252?raw=1) |
 | Data Manipulation in SQL                    | DataCamp                        | -              | Data Analytics   | [Link](https://www.datacamp.com/statement-of-accomplishment/course/3ed788ceea2bafa750a93ae0e620b8c4b1df90db?raw=1) |
-| Introduction to Python                      | DataCamp                        | -              | Data Analytics   | [Link](https://example.com) |
-| Introduction of R                           | DataCamp                        | -              | Data Analytics   | [Link](https://example.com) |
-| **Intermediate SQL Server**                 | DataCamp                        | -              | Data Analytics   | [Link](https://example.com) |
-| **Intermediate SQL**                        | DataCamp                        | -              | Data Analytics   | [Link](https://example.com) |
-| **Intermediate R**                          | DataCamp                        | -              | Data Analytics   | [Link](https://example.com) |
+| Data-Driven Decision Making in SQL          | DataCamp                        | -              | Data Analytics   | [Link](https://www.datacamp.com/statement-of-accomplishment/course/8dc402732921cb244fcb45866e03576275e26fb8?raw=1) |
+| Database Design                             | DataCamp                        | -              | Data Analytics   | [Link](https://www.datacamp.com/statement-of-accomplishment/course/23a1bdd5a4fed5b526c245316c9958b76984e1c5?raw=1) |
+| Exploratory Data Analysis in SQL            | DataCamp                        | -              | Data Analytics   | [Link](https://www.datacamp.com/statement-of-accomplishment/course/41447012a8a4eebad228be565116189f089b0653?raw=1) |
+| Functions for Manipulating Data in PostgreSQL | DataCamp                      | -              | Data Analytics   | [Link](https://www.datacamp.com/statement-of-accomplishment/course/1885f83c0992e1cf43be80bc8b57002cae514bee?raw=1) |
+| Functions for Manipulating Data in SQL Server | DataCamp                      | -              | Data Analytics   | [Link](https://www.datacamp.com/statement-of-accomplishment/course/32fc37e5ed9cd9aa0654836fe4211862625db788?raw=1) |
 | Introduction to Data Science in Python      | DataCamp                        | -              | Data Analytics   | [Link](https://example.com) |
 | Introduction to Python                      | DataCamp                        | -              | Data Analytics   | [Link](https://example.com) |
 | Introduction of R                           | DataCamp                        | -              | Data Analytics   | [Link](https://example.com) |
@@ -76,7 +76,7 @@ permalink: /certification/
 | **Title**                                   | **Institution**                 | **Expiration** | **Field**        | **Link** |
 |---------------------------------------------|---------------------------------|----------------|------------------|----------|
 | Data Manipulation with pandas               | DataCamp                        | -              | Data Analytics   | [Link](https://www.datacamp.com/statement-of-accomplishment/course/062b06752024f421295f3c3540e6534ca22ce79b?raw=1) |
-| **Alteryx Foundational Micro-Credential**   | Alteryx                         | -              | Data Analytics   | [Link](https://example.com) |
+| Exploratory Data Analysis in Python         |  DataCamp                       | -              | Data Analytics   | [Link](https://www.datacamp.com/statement-of-accomplishment/course/4d6b9ce373ded25094e40c438ec93d108aa56f6f?raw=1) |
 | **Google Data Analytics**                   | Google / Coursera               | -              | Data Analytics   | [Link](https://example.com) |
 | **Architecting with Google Compute Engine** | Google / Coursera               | -              | Google Cloud     | [Link](https://example.com) |
 | **Administering Imperva Security Infrastructure** | Imperva Inc.               | August 2024     | Data Security    | [Link](https://example.com) |
