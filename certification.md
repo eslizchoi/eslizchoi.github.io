@@ -27,7 +27,7 @@ permalink: /certification/
 | Applying SQL to Real-World Problems         | DataCamp                        | -              | Data Analytics   | [Link](https://www.datacamp.com/statement-of-accomplishment/course/47adab716bc8d318c27388813ad0be2cbe6f5b05?raw=1) |
 | Associate Data Analyst in SQL               | DataCamp                        | -              | Data Analytics   | [Link](https://www.datacamp.com/statement-of-accomplishment/track/fe7a4a461d7aef56161230d9d275df356c985b45?raw=1) |
 | Creating PostgreSQL Databases               | DataCamp                        | -              | Data Analytics   | [Link](https://www.datacamp.com/statement-of-accomplishment/course/94aa58ffbb0f41225503e5e6f330f651a8fbf252?raw=1) |
-| Data Manipulation in SQL                    | DataCamp                        | -              | Data Analytics   | [Link]([https://example.com](https://www.datacamp.com/statement-of-accomplishment/course/3ed788ceea2bafa750a93ae0e620b8c4b1df90db?raw=1)) |
+| Data Manipulation in SQL                    | DataCamp                        | -              | Data Analytics   | [Link](https://www.datacamp.com/statement-of-accomplishment/course/3ed788ceea2bafa750a93ae0e620b8c4b1df90db?raw=1) |
 | Introduction to Python                      | DataCamp                        | -              | Data Analytics   | [Link](https://example.com) |
 | Introduction of R                           | DataCamp                        | -              | Data Analytics   | [Link](https://example.com) |
 | **Intermediate SQL Server**                 | DataCamp                        | -              | Data Analytics   | [Link](https://example.com) |
