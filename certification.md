@@ -37,6 +37,8 @@ permalink: /certification/
 | Introduction to Python                      | DataCamp                        | -              | Data Analytics   | [Link](https://example.com) |
 | Introduction of R                           | DataCamp                        | -              | Data Analytics   | [Link](https://example.com) |
 
+
+
 # 📜 Power BI
 
 | **Title**                                   | **Institution**                 | **Expiration** | **Field**        | **Link** |
