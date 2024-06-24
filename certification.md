@@ -46,7 +46,7 @@ permalink: /certification/
 | Data Transformation in Power BI             | DataCamp                        | -              | Data Analytics   | [Link](https://www.datacamp.com/statement-of-accomplishment/course/8da9916a94b708f0e40f770ec3046c07626a0826?raw=1) |
 | Data Visualization in Power BI              | DataCamp                        | -              | Data Analytics   | [Link](https://www.datacamp.com/statement-of-accomplishment/course/f37444d2aa4598c9f1fcc56055e7a11bc02e21b5?raw=1) |
 | Introduction to DAX in Power BI             | DataCamp                        | -              | Data Analytics   | [Link](https://www.datacamp.com/statement-of-accomplishment/course/c060d16e69ddad8f31f38a706bdb0fb0c6de6e41?raw=1) |
-| Sonar Foundation - Hybrid                   | Imperva Inc.                    | August 2023    | Data Analytics   | [Link](https://example.com) |
+| Introduction to Power BI                    | DataCamp                        | -              | Data Analytics   | [Link](https://www.datacamp.com/statement-of-accomplishment/course/6b82dd2d20f9186435fa0f366135dbb7d0f0e7fe?raw=1) |
 | jSonar 101 (SLE)                            | Imperva Inc.                    | -              | Data Analytics   | [Link](https://example.com) |
 | **Intermediate SQL Server**                 | DataCamp                        | -              | Data Analytics   | [Link](https://example.com) |
 | **Intermediate SQL**                        | DataCamp                        | -              | Data Analytics   | [Link](https://example.com) |
