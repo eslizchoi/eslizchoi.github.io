@@ -35,7 +35,14 @@ permalink: /certification/
 | Functions for Manipulating Data in SQL Server | DataCamp                      | -              | Data Analytics   | [Link](https://www.datacamp.com/statement-of-accomplishment/course/32fc37e5ed9cd9aa0654836fe4211862625db788?raw=1) |
 | **Intermediate SQL**                        | DataCamp                        | -              | Data Analytics   | [Link](https://www.datacamp.com/statement-of-accomplishment/course/011bbe52163d4717a2db6f32f64cf73754ffced4?raw=1) |
 | **Intermediate SQL Server**                 | DataCamp                        | -              | Data Analytics   | [Link](https://www.datacamp.com/statement-of-accomplishment/course/229c734defe5fbf94e299f0768e3158332642cdf?raw=1) |
-| Introduction of R                           | DataCamp                        | -              | Data Analytics   | [Link](https://example.com) |
+| Introduction to Relational Databases in SQL | DataCamp                        | -              | Data Analytics   | [Link](https://www.datacamp.com/statement-of-accomplishment/course/a0282ab998e75db19a26d3f3e853741133faf1f9?raw=1) |
+| Introduction to SQL                         | DataCamp                        | -              | Data Analytics   | [Link](https://www.datacamp.com/statement-of-accomplishment/course/891160f3352bb4fa68a6d0258432385e726e6077?raw=1) |
+| Introduction to SQL Server                  | DataCamp                        | -              | Data Analytics   | [Link](https://www.datacamp.com/statement-of-accomplishment/course/82fc382eca0b56dbee36a31efe957e036e4ae97c?raw=1) |
+| Associate Data Analyst in SQL               | DataCamp                        | -              | Data Analytics   | [Link](https://www.datacamp.com/statement-of-accomplishment/track/fe7a4a461d7aef56161230d9d275df356c985b45?raw=1) |
+| Creating PostgreSQL Databases               | DataCamp                        | -              | Data Analytics   | [Link](https://www.datacamp.com/statement-of-accomplishment/course/94aa58ffbb0f41225503e5e6f330f651a8fbf252?raw=1) |
+| Data Manipulation in SQL                    | DataCamp                        | -              | Data Analytics   | [Link](https://www.datacamp.com/statement-of-accomplishment/course/3ed788ceea2bafa750a93ae0e620b8c4b1df90db?raw=1) |
+| Data-Driven Decision Making in SQL          | DataCamp                        | -              | Data Analytics   | [Link](https://www.datacamp.com/statement-of-accomplishment/course/8dc402732921cb244fcb45866e03576275e26fb8?raw=1) |
+| Database Design                             | DataCamp                        | -              | Data Analytics   | [Link](https://www.datacamp.com/statement-of-
 
 # 📜 Power BI
 
@@ -79,10 +86,7 @@ permalink: /certification/
 | Hypothesis Testing in Python                |  DataCamp                       | -              | Data Analytics   | [Link](https://www.datacamp.com/statement-of-accomplishment/course/fc4c4a394f4abcb6161cb879dc6cd357aada064c?raw=1) |
 | **Intermediate Python**                     |  DataCamp                       | -              | Data Analytics   | [Link](https://www.datacamp.com/statement-of-accomplishment/course/9c5fde5a392dc39e32f06b525810029094711210?raw=1) |
 | Introduction to Data Visualization with Seaborn |  DataCamp                   | -              | Data Analytics   | [Link](https://www.datacamp.com/statement-of-accomplishment/course/920a851bb7ad9aedb0672c6a2e7fc410cc526dcc?raw=1) |
-| Data Privacy Course                         | Imperva Inc.                    | August 2024    | Data Security    | [Link](https://example.com) |
-| Sonar Foundation - Hybrid                   | Imperva Inc.                    | August 2023    | Data Security    | [Link](https://example.com) |
-| jSonar 101 (SLE)                            | Imperva Inc.                    | -              | Data Security    | [Link](https://example.com) |
-| **Intermediate SQL Server**                 | DataCamp                        | -              | Data Analytics   | [Link](https://example.com) |
+| Introduction to Statistics in Python        | DataCamp                        | -              | Data Analytics   | [Link](https://www.datacamp.com/statement-of-accomplishment/course/53a7579d01c57beb3c6c7d31b87636bc43f5ef81?raw=1) |
 | **Intermediate SQL**                        | DataCamp                        | -              | Data Analytics   | [Link](https://example.com) |
 | **Intermediate R**                          | DataCamp                        | -              | Data Analytics   | [Link](https://example.com) |
 | Introduction to Data Science in Python      | DataCamp                        | -              | Data Analytics   | [Link](https://example.com) |
