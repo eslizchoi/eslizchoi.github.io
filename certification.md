@@ -43,13 +43,8 @@ permalink: /certification/
 | Reporting in SQL                            | DataCamp                        | -              | Data Analytics   | [Link](https://www.datacamp.com/statement-of-accomplishment/course/7b3cc678c332fdb5998585d1ebfbbe0679a62339?raw=1) |
 | **SQL Fundamentals**                        | DataCamp                        | -              | Data Analytics   | [Link](https://www.datacamp.com/statement-of-accomplishment/track/77640890ef5dafecf59c440f1e16263290a9ab36?raw=1) |
 | **SQL Server Fundamentals**                 | DataCamp                        | -              | Data Analytics   | [Link](https://www.datacamp.com/statement-of-accomplishment/track/b76dc1908f42e94fe5961db8bdf865ff59166dd5?raw=1) |
-| Introduction to Data Science in Python      | DataCamp                        | -              | Data Analytics   | [Link](https://example.com) |
-| Introduction to Data Science in Python      | DataCamp                        | -              | Data Analytics   | [Link](https://example.com) |
-| Introduction to Data Science in Python      | DataCamp                        | -              | Data Analytics   | [Link](https://example.com) |
-| Introduction to Data Science in Python      | DataCamp                        | -              | Data Analytics   | [Link](https://example.com) |
-| Introduction to Data Science in Python      | DataCamp                        | -              | Data Analytics   | [Link](https://example.com) |
-| Introduction to Data Science in Python      | DataCamp                        | -              | Data Analytics   | [Link](https://example.com) |
-| Introduction to Data Science in Python      | DataCamp                        | -              | Data Analytics   | [Link](https://example.com) |
+| SQL for Business Analysts                   | DataCamp                        | -              | Data Analytics   | [Link](https://www.datacamp.com/statement-of-accomplishment/track/89f1874273fff0de623afc82c77adef5924fa9e5?raw=1) |
+| Time Series Analysis in SQL Server          | DataCamp                        | -              | Data Analytics   | [Link](https://www.datacamp.com/statement-of-accomplishment/course/590f008f25872d9b2bc663dd0f307f38f0e23bb9?raw=1) |
 
 # 📜 Power BI
 
@@ -62,9 +57,6 @@ permalink: /certification/
 | Introduction to DAX in Power BI             | DataCamp                        | -              | Data Analytics   | [Link](https://www.datacamp.com/statement-of-accomplishment/course/c060d16e69ddad8f31f38a706bdb0fb0c6de6e41?raw=1) |
 | Introduction to Power BI                    | DataCamp                        | -              | Data Analytics   | [Link](https://www.datacamp.com/statement-of-accomplishment/course/6b82dd2d20f9186435fa0f366135dbb7d0f0e7fe?raw=1) |
 | **Power BI Fundamentals**                   | DataCamp                        | -              | Data Analytics   | [Link](https://www.datacamp.com/statement-of-accomplishment/track/ea50e80d082aa574ec02d127d1c8cb0b41850067?raw=1) |
-| **Intermediate SQL**                        | DataCamp                        | -              | Data Analytics   | [Link](https://example.com) |
-| **Intermediate R**                          | DataCamp                        | -              | Data Analytics   | [Link](https://example.com) |
-| Case Study: Analyzing Customer Churn in Power BI     | DataCamp               | -              | Data Analytics   | [Link](https://www.datacamp.com/statement-of-accomplishment/course/1979c8bc770e20bc0c2a9d4abd1e9193a23a7b80?raw=1) |
 
 # 📜 Tableau
 
@@ -77,12 +69,8 @@ permalink: /certification/
 | Data Visualization in Tableau               || DataCamp                       | -              | Data Analytics   | [Link]([https://example.com](https://www.datacamp.com/statement-of-accomplishment/course/d376c8471872a7291eb295ae90b402b3d18818f3?raw=1)) |
 | Introduction to Tableau                     | DataCamp                        | -              | Data Analytics   | [Link](https://www.datacamp.com/statement-of-accomplishment/course/235573f3358361c58583fcc8e7aae1114d3ed48f?raw=1) |
 | Marketing Analytics in Tableau              | DataCamp                        | -              | Data Analytics   | [Link](https://www.datacamp.com/statement-of-accomplishment/course/e5d2b4bce680729faaf96a819ee79dc04931b2e0?raw=1) |
-| **Intermediate R**                          | DataCamp                        | -              | Data Analytics   | [Link](https://example.com) |
-| Introduction to Data Science in Python      | DataCamp                        | -              | Data Analytics   | [Link](https://example.com) |
-| Introduction to Data Science in Python      | DataCamp                        | -              | Data Analytics   | [Link](https://example.com) |
-| Introduction to Data Science in Python      | DataCamp                        | -              | Data Analytics   | [Link](https://example.com) |
-| Introduction to Data Science in Python      | DataCamp                        | -              | Data Analytics   | [Link](https://example.com) |
-| Introduction to Data Science in Python      | DataCamp                        | -              | Data Analytics   | [Link](https://example.com) |
+| Statistical Techniques in Tableau           | DataCamp                        | -              | Data Analytics   | [Link](https://www.datacamp.com/statement-of-accomplishment/course/5804b4ef7a9ea444811b58a800a8ae2dfc06634a?raw=1) |
+| Time Series Analysis in Tableau             | DataCamp                        | -              | Data Analytics   | [Link](https://www.datacamp.com/statement-of-accomplishment/course/d9b9f3dbeccd5c1ff72de234c468acb1b9bed8b1?raw=1) |
 
 # 📜 Python
 
@@ -99,7 +87,5 @@ permalink: /certification/
 | Python Data Structure                       | University of Michigan(Coursera) | -              | Data Analytics   | [Link](https://www.coursera.org/account/accomplishments/certificate/KPYNPCFRN8YR) |
 | Python Toolbox                              | DataCamp                        | -              | Data Analytics   | [Link](https://www.datacamp.com/statement-of-accomplishment/course/9d2c32db1b47c41ec9b0ac1debe7240a37c71466?raw=1) |
 | Python Data Fundamentals                    | DataCamp                        | -              | Data Analytics   | [Link](https://www.datacamp.com/statement-of-accomplishment/track/33e8c3b8c71a438676a16d1669f674e6cda6f62e?raw=1) |
-| Introduction to Data Science in Python      | DataCamp                        | -              | Data Analytics   | [Link](https://example.com) |
-| Introduction to Data Science in Python      | DataCamp                        | -              | Data Analytics   | [Link](https://example.com) |
-| Introduction to Data Science in Python      | DataCamp                        | -              | Data Analytics   | [Link](https://example.com) |
-| Introduction to Data Science in Python      | DataCamp                        | -              | Data Analytics   | [Link](https://example.com) |
+| Sampling in Python                          | DataCamp                        | -              | Data Analytics   | [Link](https://www.datacamp.com/statement-of-accomplishment/course/d3c9d08c6242c7345b128e42d0f843b454611934?raw=1) |
+| Writing Efficient Python Code               | DataCamp                        | -              | Data Analytics   | [Link](https://www.datacamp.com/statement-of-accomplishment/course/ec2d5d9862bb9c38f513963b951d2882634675a0?raw=1) |
