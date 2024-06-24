@@ -19,6 +19,9 @@ permalink: /certification/
   th {
     background-color: #f4f4f4; /* Optional: Add background color to header cells */
   }
+  th:first-child, td:first-child {
+    width: 30%; /* Adjust the width percentage as needed */
+  }
 </style>
 
 | **Title**                                   | **Institution**                 | **Expiration** | **Field**        | **Link** |
