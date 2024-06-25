@@ -1,1 +1,19 @@
+table {
+  width: 100%; /* Make the table take up the full width of the page */
+  border-collapse: collapse; /* Optional: Makes borders look cleaner */
+}
+
+th, td {
+  padding: 10px; /* Add padding to table cells */
+  border: 1px solid #ddd; /* Add border to table cells */
+  text-align: left; /* Align text to the left */
+}
+
+th {
+  background-color: #f4f4f4; /* Optional: Add background color to header cells */
+}
+
+th:first-child, td:first-child {
+  width: 30%; /* Adjust the width of the first column */
+}
 
