@@ -1,3 +1,4 @@
+/* Custom CSS to make the table columns wider */
 table {
   width: 100%; /* Make the table take up the full width of the page */
   border-collapse: collapse; /* Optional: Makes borders look cleaner */
@@ -9,11 +10,10 @@ th, td {
   text-align: left; /* Align text to the left */
 }
 
+th:first-child, td:first-child {
+  width: 40%; /* Adjust the width percentage as needed */
+}
+
 th {
   background-color: #f4f4f4; /* Optional: Add background color to header cells */
 }
-
-th:first-child, td:first-child {
-  width: 30%; /* Adjust the width of the first column */
-}
-
