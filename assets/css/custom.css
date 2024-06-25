@@ -17,3 +17,11 @@ th:first-child, td:first-child {
 th {
   background-color: #f4f4f4; /* Optional: Add background color to header cells */
 }
+
+/* Adjust container width */
+.container {
+  max-width: 100% !important;
+  width: 100% !important;
+  padding-left: 2rem !important;
+  padding-right: 2rem !important;
+}
