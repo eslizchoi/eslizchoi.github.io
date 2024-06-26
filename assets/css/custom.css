@@ -25,3 +25,14 @@ th {
   padding-left: 2rem !important;
   padding-right: 2rem !important;
 }
+
+/* Custom CSS to adjust the profile image */
+.avatar {
+  width: 50px; /* Adjust the width as needed */
+  height: 50px; /* Adjust the height as needed */
+  border-radius: 50%; /* Make the image circular */
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px; /* Adjust the top margin as needed */
+}
