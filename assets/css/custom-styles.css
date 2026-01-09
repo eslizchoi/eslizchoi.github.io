@@ -36,3 +36,5 @@ th {
   margin-right: auto;
   margin-top: 20px; /* Adjust the top margin as needed */
 }
+
+body { background: red !important; }
