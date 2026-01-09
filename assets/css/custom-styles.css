@@ -37,22 +37,4 @@ th {
   margin-top: 20px; /* Adjust the top margin as needed */
 }
 
-/* =========================
-   FORCE remove full-screen hero height
-   ========================= */
-
-/* Beautiful Jekyll / hero 영역 높이 강제 해제 */
-.intro-header,
-.header-section,
-.page-heading,
-.post-heading {
-  height: auto !important;
-  min-height: 0 !important;
-}
-
-/* 혹시 wrapper가 화면 높이를 잡고 있을 경우 대비 */
-header,
-.site-header {
-  height: auto !important;
-  min-height: 0 !important;
-}
+body { background: #ff0000 !important; }
