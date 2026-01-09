@@ -38,27 +38,21 @@ th {
 }
 
 /* =========================
-   Example 1: Reduce big blank space
+   FORCE remove full-screen hero height
    ========================= */
 
-/* 페이지 상/하단 여백 줄이기 (테마별 클래스 후보 포함) */
-.page-content,
-.main-content,
-main,
-.container {
-  padding-top: 24px !important;
-  padding-bottom: 24px !important;
-}
-
-/* 히어로/헤더 영역 여백 줄이기 (Beautiful Jekyll 테마에서 자주 쓰는 클래스들) */
+/* Beautiful Jekyll / hero 영역 높이 강제 해제 */
 .intro-header,
 .header-section,
 .page-heading,
 .post-heading {
-  margin-bottom: 16px !important;
-  padding-bottom: 0 !important;
+  height: auto !important;
+  min-height: 0 !important;
 }
 
-/* 제목/부제목 기본 마진도 살짝 줄임 */
-h1 { margin: 12px 0 10px; }
-p  { margin: 10px 0; }
+/* 혹시 wrapper가 화면 높이를 잡고 있을 경우 대비 */
+header,
+.site-header {
+  height: auto !important;
+  min-height: 0 !important;
+}
