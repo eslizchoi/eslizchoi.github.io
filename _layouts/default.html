@@ -4,19 +4,29 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ page.title }}</title>
+
+  <!-- Custom styles -->
   <link rel="stylesheet" href="{{ '/assets/css/custom-styles.css' | relative_url }}">
   <!-- Add any other necessary head elements here -->
 </head>
 <body>
+
   <header>
-    <img src="{{ '/assets/img/IMG_6728 3.jpg' | relative_url }}" alt="Profile Image" class="avatar">
+    <img
+      src="{{ '/assets/img/IMG_6728 3.jpg' | relative_url }}"
+      alt="Profile Image"
+      class="avatar"
+    >
     <!-- Your header content here -->
   </header>
+
   <div class="container">
     {{ content }}
   </div>
+
   <footer>
     <!-- Your footer content here -->
   </footer>
+
 </body>
 </html>
